@@ -1,0 +1,23 @@
+button {
+    width: 80;
+    height: 80;
+    border: solid;
+    font-size: 50;
+ 
+  }
+  
+  .textinput {
+    width: 335;
+    height: 50;
+    font-size: 25;
+    color: black;
+    border: solid;
+  }
+  
+
+
+  .center{
+    margin-right: auto;
+    margin-left: auto;
+
+  }
